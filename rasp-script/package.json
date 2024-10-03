@@ -1,0 +1,9 @@
+{
+  "name": "rasp-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wol": "^1.0.7"
+  }
+}
